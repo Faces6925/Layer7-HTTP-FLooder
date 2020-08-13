@@ -1,6 +1,6 @@
-#Remaked by GaLViN Credit to Nii-Chan 
+#Remaked by GaLViN Credit to Ayon 
 #Python3
-#https://discord.gg/YVWXVzZ
+#https://discord.gg/gtps
 
 import os, sys
 import requests, urllib3
