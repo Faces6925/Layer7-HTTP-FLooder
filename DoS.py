@@ -1,6 +1,6 @@
-#Remaked by Faces Credit to Faces 
+#Remaked by DAMN Credit to DAMN 
 #Python3
-#https://discord.gg/YVWXVzZ
+#https://discord.io/CrazyGamers
 
 import os, sys
 import requests, urllib3
