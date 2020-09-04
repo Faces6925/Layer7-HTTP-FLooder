@@ -1,4 +1,4 @@
-#Remaked by GaLViN Credit to Nii-Chan 
+#Remaked by Faces Credit to Faces 
 #Python3
 #https://discord.gg/YVWXVzZ
 
